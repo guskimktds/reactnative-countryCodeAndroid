@@ -1,0 +1,3 @@
+rootProject.name = 'CountryCodeAndroid'
+
+include ':app'
